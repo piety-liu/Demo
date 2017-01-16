@@ -1,0 +1,9 @@
+C:\Users\liuqc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\liuqc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\liuqc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\liuqc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\liuqc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\liuqc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\liuqc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\liuqc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\liuqc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
